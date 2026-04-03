@@ -84,12 +84,12 @@ Created an interactive dashboard including:
 ---
 
 ## 📸 Dashboard Preview
-(Add screenshots of your Power BI dashboard here)
+![Dashboard](Dashboard%20View.png)
 
 ---
 
 ## 📚 Reference
-This project is inspired by a YouTube tutorial, and I implemented the analysis while understanding the concepts.
+Implemented as a personal project to apply and strengthen data analytics skills across the full analysis lifecycle."
 
 ---
 
