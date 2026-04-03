@@ -89,7 +89,7 @@ Created an interactive dashboard including:
 ---
 
 ## 📚 Reference
-Implemented as a personal project to apply and strengthen data analytics skills across the full analysis lifecycle."
+Implemented as a personal project to apply and strengthen data analytics skills across the full analysis lifecycle.
 
 ---
 
